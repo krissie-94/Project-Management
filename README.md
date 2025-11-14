@@ -1,6 +1,6 @@
 # Project-Management
-Portfolio
-Enrich Non-Governmental Organization – Website
+# Portfolio
+# *Enrich Non-Governmental Organization – Website
 Redesign Project Plan & Gantt Chart
 Project Title: Enrich NGO Website Redesign
 Project Duration: 10 Weeks
